@@ -1,0 +1,138 @@
+{
+  "student": "John McMahon",
+  "class": "2B",
+  "school": "Harolds Cross Educate Together Secondary School",
+  "assessments": [
+    {
+      "subject": "Irish",
+      "level": "C",
+      "result": "89",
+      "grade": "A",
+      "what_went_well": "John had a brilliant year this year across the board. He is a joy to have in class and he did great work for this exam.",
+      "even_better_if": "John's result would improve if he did a bit more study on his Úrscéal",
+      "effort": 5,
+      "teacher": "Mr. Ward"
+    },
+    {
+      "subject": "English",
+      "level": "H",
+      "result": "86",
+      "grade": "A",
+      "what_went_well": "John completed an excellent exam which is reflective of all his hard work this year. His explanations were well developed and his essays felt considered and planned. He demonstrated excellent knowledge of studied texts and a strong vocabulary. John is also developing a strong sense of voice in his writing which helps his work stand out.",
+      "even_better_if": "John should remember to start every paragraph with a clear point/topic sentence. From this opening sentence, the reader should have a sense of what the paragraph will be about before he introduces a quote. I would encourage John to be careful with his handwriting as he has a tendency to write certain letters in a way that looks like capital letters (sometimes in the middle of words).",
+      "effort": 5,
+      "teacher": "C Naughton, Ms Glacken"
+    },
+    {
+      "subject": "Mathematics",
+      "level": "H",
+      "result": "96",
+      "grade": "A",
+      "what_went_well": "John showed an excellent understanding of all topics covered this year in the summer exam. He showed clear workings throughout",
+      "even_better_if": "John should use any time remaining to check back over his work for any small calculation errors.",
+      "effort": 5,
+      "teacher": "N Hogan"
+    },
+    {
+      "subject": "History",
+      "level": "C",
+      "result": "93",
+      "grade": "A",
+      "what_went_well": "John completed an excellent exam which reflects all his hard work this year. He demonstrated a high level of knowledge on all topics assessed, scoring especially highly on the history of the GAA and the 1798 Rebellion. John has worked well in history all year and has consistently shown a strong interest, understanding, and knowledge of all topics covered.",
+      "even_better_if": "To improve on this fantastic result, John should ensure to always explain himself fully, using as much specific detail as possible. Heading into 3rd year, I suggest John begin revising material from the last 2 years to help him prepare for the Junior Cycle.",
+      "effort": 5,
+      "teacher": "C Naughton, Ms Glacken"
+    },
+    {
+      "subject": "Geography",
+      "level": "C",
+      "result": "89",
+      "grade": "A",
+      "what_went_well": "John showed Excellent understanding of geographical concepts and processes throughout the exam. John demonstrated outstanding knowledge of river, coastal and mass movement topics. Answers were detailed, accurate and used correct geographical terminology consistently.",
+      "even_better_if": "John would progress and to improve further continue adding more detail to long-answer questions and revising key words and labelled diagrams going into next year.",
+      "effort": 5,
+      "teacher": "Ms Roe Ashe"
+    },
+    {
+      "subject": "Spanish",
+      "level": "C",
+      "result": "86",
+      "grade": "A",
+      "what_went_well": "John achieved an excellent result in this assessment and demonstrated excellent knowledge across a wide range of topics, particularly free time activities, school, daily routine and personal description. His written response was detailed and comprehensive and showed excellent preparation and revision throughout. ¡Excelente trabajo!",
+      "even_better_if": "To improve future assessment results, John should revise vocabulary relating to clothes. In the reading section, he should also ensure that answers include enough detail when full details are required in order to maximise his marks. Well done!",
+      "effort": 5,
+      "teacher": "C McHugh"
+    },
+    {
+      "subject": "Business Studies",
+      "level": "C",
+      "result": "91",
+      "grade": "A",
+      "what_went_well": "John did an excellent exam and showed the level of content knowledge he has. His answers were clean and well structured.",
+      "even_better_if": "John needs to keep up the level of consistency he has shown throughout the year.",
+      "effort": 5,
+      "teacher": "A Clabby"
+    },
+    {
+      "subject": "Science (JC - Revised Syllabus)",
+      "level": "C",
+      "result": "80",
+      "grade": "B",
+      "what_went_well": "A great effort and result by John in his science assessment. He had full marks in three of the short answer questions and showed his knowledge across the topics of earth & space, renewable energy and chemical reactions. John is a very diligent student and works well in class.",
+      "even_better_if": "Areas that John should revise again for future are drawing electrical circuits in a rectangular shape, ensuring that he shows his formula as well as his workings for any calculations. In the area of force, in particular the concept of constant speed vs acceleration or deceleration, once something is moving and it is at constant speed the arrows to convey the force on a diagram are equal length and opposite directions.",
+      "effort": 5,
+      "teacher": "N Small"
+    },
+    {
+      "subject": "Physical Education (135 hour)",
+      "level": "",
+      "result": "N/A",
+      "grade": "N/A",
+      "what_went_well": "John has displayed good effort and participation throughout the term. John has taken part in a variety of sports throughout the term and has shown a good aptitude in the lesson content covered this year.",
+      "even_better_if": "To get further benefit from PE lessons, John could engage more thoroughly in some of the activities.",
+      "effort": 4,
+      "teacher": "L O'Sullivan"
+    },
+    {
+      "subject": "Classics",
+      "level": "C",
+      "result": "73",
+      "grade": "B",
+      "what_went_well": "John's efforts in classics have not gone unnoticed and his grade reflects his work in class. John can work with a range of question types and has a good understanding of the Iliad. Keep up the good work John!",
+      "even_better_if": "John should expand his myth question and can strengthen his answers to long Iliad questions by providing more details such as evidence and explanations.",
+      "effort": 5,
+      "teacher": "H Egan"
+    },
+    {
+      "subject": "Philosophy",
+      "level": "",
+      "result": "N/A",
+      "grade": "N/A",
+      "what_went_well": "John has shown excellent engagement with Philosophy throughout the year. He consistently contributed thoughtful ideas to class discussions and demonstrated strong critical thinking skills when exploring philosophical questions. He approached challenging topics with maturity and curiosity and showed a genuine willingness to consider different perspectives.",
+      "even_better_if": "Keep up the great work.",
+      "effort": 4,
+      "teacher": "A McAuley"
+    },
+    {
+      "subject": "CSPE (Civic, Social, Political Education)",
+      "level": "C",
+      "result": "N/A",
+      "grade": "N/A",
+      "what_went_well": "John participated very well in class discussions and projects this term.",
+      "even_better_if": "It would be great if John can keep up the great work in third year.",
+      "effort": 5,
+      "teacher": "L Kennedy"
+    },
+    {
+      "subject": "SPHE (Social, Personal, Health Education)",
+      "level": "",
+      "result": "N/A",
+      "grade": "N/A",
+      "what_went_well": "John has demonstrated excellent effort over this term. John has engaged in a variety of wellbeing content and has shown an excellent understanding of the content. Keep up the great work.",
+      "even_better_if": "It would be great to hear more of John's insights on class topics.",
+      "effort": 5,
+      "teacher": "L O'Sullivan"
+    }
+  ],
+  "tutor_comment": "John engages very well during tutor time and contributes positively to all activities. Throughout the year, he has achieved very strong results and shown excellent progress in his learning."
+}
